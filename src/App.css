@@ -1,0 +1,70 @@
+body{
+  background-color: #d1e8e2;
+
+}
+.container_bonds{
+  width: 50%;
+  margin: auto;
+
+  background-color: #950740;
+  text-align: center;
+  height: 30vh;
+}
+.container_main{
+  color: wheat;
+  width: 50%;
+  margin: auto;
+
+  background-color: #950740;
+  text-align: center;
+  height: 30vh;
+}
+.user_container{
+  color: wheat;
+  width: 50%;
+  margin: auto;
+
+  background-color: #950740;
+  text-align: center;
+
+}
+
+.container{
+    width: 50%;
+  margin: auto;
+
+  background-color: #950740;
+  text-align: center;
+
+}
+.browser-default{
+  height: 150px;
+  width: 100px;
+}
+.usersForm{
+  width: 300px;
+  margin: auto;
+}
+.nav-wrapper{
+  background-color: #c3073f;
+  
+}
+#container{
+    
+  width: 50%;
+  margin: auto;
+
+  background-color: #950740;
+  border-radius: 20px;
+  height: 60vh;
+  text-align: center;
+
+}
+.browser-default{
+  text-align: center;
+  margin: auto;
+  background-color: #950740;
+}
+.page-footer{
+  margin-top:100px ;
+}
